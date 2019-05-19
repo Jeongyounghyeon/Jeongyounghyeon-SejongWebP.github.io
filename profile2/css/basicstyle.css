@@ -1,0 +1,46 @@
+*{
+  margin: 0px 30px 10px 30px;
+  padding: 0px;
+  font-family: '나눔 고딕', 'NanumGothic', '맑은 고딕', 'Gothic';
+  background-color: #E6E6E6;
+}
+body{
+  padding: 0 175px 0 110px;
+  margin: 0;
+  text-align: center;
+}
+
+a:visited{
+  color: purple;
+}
+a:hover{
+  color: green;
+}
+table{
+  margin: auto;
+}
+table img{
+  float: left;
+}
+#main-navigation{
+  border-color: #C8C8C8;
+}
+#main-header{
+  text-shadow:1px 1px 1px black;
+}
+
+#id-card{
+  border-style: groove;
+  border-width: 5px;
+  padding: 10px 20px 2px 20px;
+}
+#simple-introducing{
+  float: center;
+  padding: 5px;
+  border-style: solid;
+}
+#addtional-introducing{
+  padding: 20px 0px 0px 0px;
+  font-size: 10px;
+  text-align: center;
+}
